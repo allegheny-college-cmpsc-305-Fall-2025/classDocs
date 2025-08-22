@@ -120,12 +120,6 @@ The below reading list is strongly recommended to improve students build technic
 | **Final Project** | Week 14 | due December 9 2025 at 7:00 PM |
 | **Neo4J** | Week 15 |
 
-
-| **Final Project (group assignment)** | Week 12 | | 
-| **REFLECTION WEEK** | Week 13 | Declaration Day, Independent Reading Day, Recharge Recess |
-| **Wrap Up** | Week 14 |
-| **Final Project** | Week 15 | due 5/2 |
-
 ## Technical Leaders
 Please feel free to visit and discuss course concepts with the instructor or Technical Leaders (TLs) whenever you need assistance.
 
