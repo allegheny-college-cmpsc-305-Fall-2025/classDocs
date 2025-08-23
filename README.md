@@ -87,38 +87,43 @@ The below reading list is strongly recommended to improve students build technic
 - **Final Project**: This project will present you with the description of a problem and ask you to implement a full-featured solution using a wide variety of data analytics techniques. The final project in this class will require you to apply all of the knowledge and skills that you have accumulated during the course of the semester to solve a problem and, whenever possible, make your solution publicly available as a free and open-source tool. The project will invite you to draw upon both your problem solving skills and data analytics techniques.
 
 ## Tentative Schedule (Subject to Change)
+### Lectures  
+| Topic | Week | Notes |
+|-------|------|-------|
+| Welcome and Syllabus | Week 1 | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUh1vSglBXqVg6q4hy0100UNiydjKdj9TgQhf8WbC4U2IbDg/viewform?usp=sharing&ouid=103917440767036558099) |
+| Focus on Applications, Faults, and SQL Code | Week 2 | Labor Day – No Class (Mon, Sept 1) |
+| SQLite3 | Week 3 | |
+| Tables | Week 4 | |
+| A Focus on Queries: Structure and Usage | Week 5 | |
+| Constraints | Week 6 | |
+| Primary and Foreign Keys | Week 7 | Fall Break – No Classes (Oct 9–12) |
+| Joins, DB Browser for SQLite, Fine-Tuning Queries | Week 8 | |
+| Fine-Tuning Queries | Week 9 | Reading Day - No Class (Fri, Oct 24) |
+| Using Python to Manage a Database | Week 10 | |
+| Streamlit Coding for a DBMS | Week 11 | |
+| Django | Week 12 | |
+| MongoDB: An Introduction & Queries | Week 13 | |
+| MongoDB, Docker, and Python | Week 14 | |
+| Neo4J | Week 15 | |
 
-| Topic | Weeks | Notes |
-|-------|-------|-----------|
-| **Welcome and Syllabus** | Week 1 | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUh1vSglBXqVg6q4hy0100UNiydjKdj9TgQhf8WbC4U2IbDg/viewform?usp=sharing&ouid=103917440767036558099)|
-| **No lab meeting** | Week 1 | 26 August 2025 |
-| **Focus on Applications, faults and SQL code** | Week 2 | Labor Day – no class (1 September 2025)|
-| **Lab 1** | Week 2 | Due by September 9 at 11:59 PM|
-| **SQLite3** | Week 3 | |
-| **Lab 2** | Week 3 | Due by September 16 at 11:59 PM| 
-| **Tables** | Week 4 | |
-| **Lab 3** | Week 4 | Due by September 23 at 11:59 PM| 
-| **A focus on queries: structure and usage** | Week 5 | |
-| **Lab 4** | Week 5 | Due by October 7 at 11:59 PM| 
-| **Constraints** | Week 6 | |
-| **No new lab given, Lab 04 is due next week** | Week 6 | Due by October 7 at 11:59 PM| 
-| **Primary and Foreign Keys** | Week 7 |Fall Break – No Classes (Thu–Sun, Oct 9–12) |
-| **Lab 5** | Week 7 | Due by October 21 at 11:59 PM|
-| **Joins, DB Browser for SQLite, Fine tweaking queries** | Week 8 | |
-| **No new lab given, Lab 05 is due next week** | Week 8 | Due by October 21 at 11:59 PM| 
-| **Fine tuning queries** | Week 9 | No Class (Fri, Oct 24)
-| **Lab 6** | Week 9 | Due by November 4 at 11:59 PM|
-| **Using Python to manage a database** | Week 10 | |
-| **No new lab given, Lab 06 is due next week** | Week 10 | Due by November 4 at 11:59 PM| 
-| **Streamlit coding for a DBMS** | Week 11 |
-| **No lab** | Week 11 | No Lab: Tue, Nov 4 – All College Programming  |
-| **Django** | Week 12 |
-| **Lab 7** | Week 12 | Due by November 25 at 11:59 PM|
-| **MongoDB: an introduction & Queries** | Week 13 |
-| **No new lab given, Lab 07 is due tobight** | Week 10 | Due by November 25 at 11:59 PM| 
-| **MongoDB, Docker and Python** | Week 14 |
-| **Final Project** | Week 14 | due December 9 2025 at 7:00 PM |
-| **Neo4J** | Week 15 |
+---
+### Key Dates (Tentative)  
+| Item | Week | Due Date / Notes |
+|------|------|------------------|
+| No Lab Meeting | Week 1 | Tue, Aug 26 |
+| Lab 1 | Week 2 | Due Sept 9, 11:59 PM |
+| Lab 2 | Week 3 | Due Sept 16, 11:59 PM |
+| Lab 3 | Week 4 | Due Sept 23, 11:59 PM |
+| Lab 4 | Week 5 | Due Oct 7, 11:59 PM |
+| No New Lab | Week 6 | Lab 4 still due Oct 7 |
+| Lab 5 | Week 7 | Due Oct 21, 11:59 PM |
+| No New Lab | Week 8 | Lab 5 still due Oct 21 |
+| Lab 6 | Week 9 | Due Nov 4, 11:59 PM |
+| No New Lab | Week 10 | Lab 6 still due Nov 4 |
+| No Lab | Week 11 | Tue, Nov 4 – All College Programming |
+| Lab 7 | Week 12 | Due Nov 25, 11:59 PM |
+| No New Lab | Week 13 | Lab 7 still due Nov 25 |
+| Final Project | Week 14 | Due Dec 9, 7:00 PM |
 
 ## Technical Leaders
 Please feel free to visit and discuss course concepts with the instructor or Technical Leaders (TLs) whenever you need assistance.
