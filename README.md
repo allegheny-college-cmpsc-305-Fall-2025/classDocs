@@ -106,7 +106,7 @@ The below reading list is strongly recommended to improve students build technic
 | **Lab 5** | Week 7 | Due by October 21 at 11:59 PM|
 | **Joins, DB Browser for SQLite, Fine tweaking queries** | Week 8 | |
 | **No new lab given, Lab 05 is due next week** | Week 8 | Due by October 21 at 11:59 PM| 
-| **Fine tuning queries** | Week 9 |
+| **Fine tuning queries** | Week 9 | No Class (Fri, Oct 24)
 | **Lab 6** | Week 9 | Due by November 4 at 11:59 PM|
 | **Using Python to manage a database** | Week 10 | |
 | **No new lab given, Lab 06 is due next week** | Week 10 | Due by November 4 at 11:59 PM| 
