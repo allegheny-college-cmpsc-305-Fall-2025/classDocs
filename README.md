@@ -14,8 +14,8 @@
 - Hang Zhao
 - Email: hzhao@allegheny.edu
 - Office Hours:
-  - M/W/F 10:00am-11:30pm. Location: Quigley Hall 208
-  - Tue 1:00pm-2:30pm. Location: Virtual
+  - M/F 10:00am-12:00pm. Location: Quigley Hall 208
+  - Tu/W 7:00pm-8:00pm. Location: Virtual
   
 - By appointment: 
     - Schedule [here](https://calendar.app.google/PD6Ku9PSCZ716K5D7) 
