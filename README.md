@@ -175,7 +175,7 @@ git push
 All materials provided in class will be accessible using the classDocs/ repository.
 Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-305-Fall-2025/classDocs)
 
-## Course Policies
+## [Course Policies](https://www.cis.allegheny.edu/teaching/policies/)
 
 All courses in the Department of Computer and Information Science are governed by the department’s policies on attendance, assignment submission, and the use of Artificial Intelligence (AI) tools. All of the policies described in this document do not supersede any policies in the Allegheny College Faculty Handbook, the Allegheny College Student Handbook, or the Allegheny College Academic Bulletin.
 
