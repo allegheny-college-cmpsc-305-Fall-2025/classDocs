@@ -107,7 +107,7 @@ The below reading list is strongly recommended to improve students build technic
 | Neo4J | Week 15 | |
 
 ---
-### Key Dates (Tentative)  
+### Key Dates  
 | Item | Week | Due Date / Notes |
 |------|------|------------------|
 | No Lab Meeting | Week 1 | Tue, Aug 26 |
