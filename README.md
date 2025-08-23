@@ -162,7 +162,7 @@ git push
 ```
 
 ## [Discord](https://discord.com/)
-- If you are already on the department's Discord server, you will be added to the course's Discord channel `#discrete-structures`.
+- If you are already on the department's Discord server, you will be added to the course's Discord channel `#database-systems`.
 - If not, join the [department's Discord server](https://discord.gg/66WygAkK) before you can be added to the course's channel.
 - During the first week, your name will be manually added to the class's Discord channel.
 
