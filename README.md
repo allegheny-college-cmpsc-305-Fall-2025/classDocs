@@ -61,8 +61,8 @@ The below reading list is strongly recommended to improve students build technic
 | Component           | Percentage |
 |---------------------|------------|
 | Class Participation | 10%        |
-| Exam                | 20%        |
-| Lab Assignments     | 40%        |
+| Exam                | 25%        |
+| Lab Assignments     | 35%        |
 | Final Project       | 30%        |
 
 ### Grading Scale
