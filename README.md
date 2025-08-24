@@ -20,6 +20,10 @@
 - By appointment: 
     - Schedule [here](https://calendar.app.google/PD6Ku9PSCZ716K5D7) 
 
+## Course Deliverable
+- Exam code "F"
+- Final Deliverable Deadline: Tuesday, December 9, 2025, 7:00pm
+
 ## Course Description
 A study of the application and evaluation of database management systems. Participating in hands-on activities that often require teamwork, students design, implement, and deploy database systems that store interdisciplinary data sets. In addition to learning how to develop and assess interfaces for databases, students study the efficiency and effectiveness of alternative data management systems. During a weekly laboratory session students use industry-grade technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
