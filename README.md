@@ -45,7 +45,7 @@ For more information, refer to [Distribution Requirements: Learning Outcomes](ht
 - **Objective 5**: Clearly and persuasively communicate the results of database inquiries and critically examine and reflect on their ethical implications.
 
 ## Textbooks
-- *Database Systems Concepts*, Fifth or Sixth Edition. Avi Silberschatz, Henry F. Korth, and S. Sudarshan.
+- *Database Systems Concepts*, Sixth or Seventh Edition. Avi Silberschatz, Henry F. Korth, and S. Sudarshan.
 - *Think Python 2e: How To Think Like a Computer Scientist*, by Allen B. Downey.
 
   + [Book Website](https://greenteapress.com/wp/think-python-2e/)
