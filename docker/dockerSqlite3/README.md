@@ -1,4 +1,4 @@
-### OS-specific scripts to build and run containers
+### Scripts to build and run containers
 The following bash scripts simplify building the container.
 
 | OS  | Building  | Running  |
