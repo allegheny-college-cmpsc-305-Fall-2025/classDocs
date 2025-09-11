@@ -1,0 +1,11 @@
+DROP TABLE  IF EXISTS Tea;
+CREATE TABLE Tea (
+id TEXT NOT NULL PRIMARY KEY,
+tea INTEGER NOT NULL,
+sandwich TEXT NOT NULL
+);
+
+INSERT INTO Tea Values ("JJ",1,"Ruban");
+INSERT INTO Tea Values ("OBC",1,"Salad");
+INSERT INTO Tea Values ("DL",0,"Chicken");
+INSERT INTO Tea Values ("HZ",0,"Pizza");
